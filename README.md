@@ -7,4 +7,4 @@ repartir l’activité. En tapant “Entreprise web design Lyon” sur Internet,
 de l’agence apparaît seulement en deuxième page des moteurs de recherche. Par chance, un
 de vos collègues, Martin, lui a dit que vous étiez un spécialiste en référencement.
 
-Visualiser le projet :  https://rabibocheur.github.io/GuillaumeBEAUPUY_4_26-03-2021/
+Visualiser le projet :  https://rabibocheur.github.io/Optimisez-un-site-web-existant
